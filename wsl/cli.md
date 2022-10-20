@@ -1,3 +1,6 @@
+# cat /etc/*release
+- kiểm tra phiên bản
+
 # mkdir [name_folder]
 - tạo folder
 
